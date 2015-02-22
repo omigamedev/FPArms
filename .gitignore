@@ -1,0 +1,6 @@
+*.swatches
+Binaries/
+Intermediate/
+Saved/
+UE4_VRThird.sdf
+UE4_VRThird.sln
